@@ -1,4 +1,4 @@
-# Web apllication to detect year you live in throught out your life
+# Web apllication to detect total days you live in throught out your life
 
 
 ---
